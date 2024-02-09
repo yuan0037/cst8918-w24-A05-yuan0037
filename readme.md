@@ -16,3 +16,5 @@ terraform apply
 terraform destroy
 
 ## Usage
+
+terraform fmt => to format the code
